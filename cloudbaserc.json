@@ -11,7 +11,7 @@
           "entry": "app.js",
           "name": "waline",
           "path": "/waline",
-          "runtime": "Nodejs12.16"
+          "runtime": "Nodejs14.19.3"
         }
       }
     }
